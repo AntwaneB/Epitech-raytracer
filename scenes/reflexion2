@@ -1,0 +1,5 @@
+type		x	y	z	r   g   b   rx  ry  rz  size	shiness checker reflx trasp limit_s	limit_e	material inverse
+plane		0	0	-250	0   0   255 0   0   0   0	0	50	0     0	    0;0;0	0;0;0	grain	 0
+sphere		600	-300	0	255 0   0   0   0   0   150	0	0	0     0     0;0;0	0;0;0	marble	 0
+sphere		600	300	0	255 0   0   0   0   0   150	0	0	0     0     0;0;0	0;0;0	none	 1
+spotlight	0	-800	800	255 255 255
